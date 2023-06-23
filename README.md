@@ -23,3 +23,5 @@ Meaning describing the selected elements are truly negative, simplified: How man
 Usefull source: https://towardsdatascience.com/sensitivity-specificity-and-meaningful-classifiers-8326738ec5c2
 ### Bootstrap
 Bootstrap randomly performs row sampling and feature sampling from the dataset to form sample datasets for every model. 
+## Cross validation
+A statistical method of evaluating and comparing learning algorithms by dividing data into two segments: one used to learn or train a model and the other used to validate the model.
